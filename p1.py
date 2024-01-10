@@ -1,2 +1,2 @@
 print("Hello hi")
-print("Happy new year")
+print("Happy new year (button)")
